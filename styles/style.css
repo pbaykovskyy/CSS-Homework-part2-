@@ -34,9 +34,12 @@
 }
 
 .navbar-buttons a{
-	text-decoration: none;
+	
 	color: #00c2ff;
 	font-size: 20px;
+}
+.navbar-buttons a:hover {
+	text-decoration: none;
 }
 
 .navbar-buttons li{
@@ -263,6 +266,10 @@
 
 .watch-listen-container a {
 	color: #00c2ff;
+	
+}
+
+.watch-listen-container a:hover {
 	text-decoration: none;
 }
 
