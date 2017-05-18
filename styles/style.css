@@ -35,9 +35,11 @@
 }
 
 .navbar-buttons a{
-	text-decoration: none;
 	color: #00c2ff;
 	font-size: 20px;
+}
+.navbar-buttons a:hover{
+	text-decoration: none;
 }
 
 .navbar-buttons li{
@@ -262,8 +264,12 @@
 	text-align: center;
 }
 
-.watch-listen-container a {
+.watch-listen-container a{
+	text-decoration: none;
 	color: #00c2ff;
+}
+
+.watch-listen-container a:hover{
 	text-decoration: none;
 }
 
